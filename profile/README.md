@@ -1,4 +1,8 @@
-# Code for NoVA
+# 🚨 ALERT: CFN is in indefinite haiatus 🚨
+
+We are looking for new leadership to hand the group off to. Please get in touch if you are interested.
+
+## Code for NoVA
 
 **⛑️A Code for America Brigade⛑️**
 
@@ -6,3 +10,5 @@ Situated in Northern VA (thus the NoVA bit), we are a group of developers, desig
 
 [Code for NoVA website](https://codefornova.org/)
 [We use GetTogether to schedule meet-ups and events](https://gettogether.community/code-for-nova/)
+
+
