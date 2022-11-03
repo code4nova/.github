@@ -1,7 +1,3 @@
-# 🚨 ALERT: CFN is in indefinite haiatus 🚨
-
-We are looking for new leadership to hand the group off to. Please get in touch if you are interested.
-
 ## Code for NoVA
 
 **⛑️A Code for America Brigade⛑️**
